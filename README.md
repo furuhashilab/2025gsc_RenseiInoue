@@ -130,4 +130,4 @@ WheelmapはOSMを基盤とし、車椅子利用可否を信号色（全面／一
 ---
 
 ## 発表用スライド
-2025年_ゼミ論発表スライド[https://docs.google.com/presentation/d/1A9n7aR9tiWaTSADBFdOKjXkP-hQtpqQlU56yh0e6hrg/edit?slide=id.p#slide=id.p]
+[2025年_ゼミ論発表スライド](https://docs.google.com/presentation/d/1A9n7aR9tiWaTSADBFdOKjXkP-hQtpqQlU56yh0e6hrg/edit?slide=id.p#slide=id.p)
